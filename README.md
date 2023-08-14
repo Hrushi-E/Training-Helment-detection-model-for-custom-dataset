@@ -19,20 +19,20 @@ In the training of the model,
 
 Step1: I first downloaded the images that contains all or either of helmet, person/human, human head, motorcycle, Registraion plate from various sites like google image, google, etc... 
 
-I downloaded around 2767 images for training the model. The exact partition is given below.
+I downloaded 4000 images for training the model. The exact partition is given below.
 
-Helmet:
+Helmet: 800
 
-No Helmet:
+No Helmet: 800
 
-Person:
+Person: 800
 
-Motorcycle
+Motorcycle: 800
 
-Registration Plate
+Registration Plate: 800
 
 
-Step2: Then I created the labels for the images manually using labelImage tool(). This helped me to create label files that are suited for yolov3.
+Step2: Then I created the labels for the images manually using labelImg tool( https://github.com/HumanSignal/labelImg ). This helped me to create label files that are suited for yolov3.
 
 This Repo contains how I did the above two steps.
 
