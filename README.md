@@ -30,7 +30,7 @@ Motorcycle: 800
 
 Registration Plate: 800
 
-This Repo contains how I downloaded images[ ].
+This Repo contains how I downloaded images[ https://github.com/Hrushi-E/Downloading-images-using-OIDv4/tree/main ].
 
 Then I uploaded images to drive for easy working with images in Google Colab.
 
